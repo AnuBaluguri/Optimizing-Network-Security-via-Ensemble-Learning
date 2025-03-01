@@ -45,12 +45,17 @@ The `NID_data.xlsx` file contains the dataset used for training and testing. Ens
 If you utilize this code or dataset in your research, please cite the original paper:
 
 ```bibtex
-@article{Baluguri2025,
-  title={Optimizing Network Security via Ensemble Learning: A Nexus with Intrusion Detection},
-  author={Baluguri, Anu and others},
-  journal={Journal of Information Security},
-  year={2025},
-  publisher={Scientific Research Publishing}
+@article{baluguri-2024,
+	author = {Baluguri, Anu and Pasumarthy, Vasudha and Roy, Indranil and Gupta, Bidyut and Rahimi, Nick},
+	journal = {Journal of Information Security},
+	month = {1},
+	number = {04},
+	pages = {545--556},
+	title = {{Optimizing Network Security via Ensemble Learning: A Nexus with Intrusion Detection}},
+	volume = {15},
+	year = {2024},
+	doi = {10.4236/jis.2024.154030},
+	url = {https://www.scirp.org/journal/paperinformation?paperid=136719},
 }
 ```
 
