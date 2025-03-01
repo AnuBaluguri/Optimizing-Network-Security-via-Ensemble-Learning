@@ -59,4 +59,3 @@ If you utilize this code or dataset in your research, please cite the original p
 }
 ```
 
-For any questions or further information, please contact the repository owner or refer to the original publication.
