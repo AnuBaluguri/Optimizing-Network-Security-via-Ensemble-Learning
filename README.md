@@ -36,3 +36,7 @@ Launch Jupyter Notebook and open `main.ipynb` to review and run the code. This n
 ## Report
 
 For a detailed understanding of the project's objectives, data description, methodology, results, and conclusions, refer to the `Final Report - Network Security.pdf` file.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
